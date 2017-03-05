@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_kernel_zte_mt6735",
+    "target_path": "kernel/zte/mt6735"
+  }
+]
